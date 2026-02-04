@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+color: rgb(28, 141, 175);}
+
+ul {display: flex;
+justify-content: space-between;
+list-style: none;
+align-items: center;
+padding: 10px;
+}
+
+a{color : rgb(28, 141, 175);
+text-decoration: none;}
+
+img {
+    width: 150px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 5%;
+    border: 10px solid rgb(28, 141, 175);
+}
+
+.center {
+    text-align: center;
+}
+h1 {
+    color: rgb(0, 0, 0);
+}
+p{
+    color: rgb(0, 0, 0);
+}
+
+.container {
+    
+    padding: 0px 50px;
+}   
+
+nav a:hover{
+    color: rgb(8, 12, 243);
+}
